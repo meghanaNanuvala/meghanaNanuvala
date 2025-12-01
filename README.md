@@ -1,3 +1,19 @@
+
+<!--
+**meghanaNanuvala/meghanaNanuvala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
 # 👋 Hi, I'm Meghana Nanuvala!
 
 🚀 **AI Engineer | Full-Stack Developer | Deep Learning Researcher**  
@@ -6,43 +22,30 @@
 
 
 
-## 🔧 Skills
 
-### **Programming & Frameworks**
-- Python, Java, TypeScript, Angular, FastAPI
-
-### **AI & Machine Learning**
-- PyTorch, TensorFlow, Scikit-learn, LLMs, LangChain, LangGraph, spaCy, Keras, Google-ADK
-
-### **Data & Infrastructure**
-- PostgreSQL, MongoDB, MySQL  
-- Docker, AWS (EC2, S3)  
-- ETL Pipelines, Redis
-
-### **Visualization & Monitoring**
-- AmCharts, Matplotlib, Kibana  
-
-### **Other Tools**
-- Git, Linux, Agile, Jira
+## 🔧 Skills  
+💻 **Languages & Frameworks**: Python, Java, TypeScript, Angular, FastAPI  
+🧠 **AI & ML**: PyTorch, TensorFlow, Scikit-learn, LLMs, LangChain, LangGraph, spaCy, Keras, Google-ADK(Agent Development Kit) 
+⚙️ **Backend & APIs**: REST APIs, Microservices, Distributed Systems  
+☁️ **Cloud & DevOps**: AWS (EC2, S3), Docker, Linux  
+🛠 **Databases**: PostgreSQL, MongoDB, MySQL  
+📊 **Visualization & Monitoring**: AmCharts, Matplotlib, Kibana  
+🧰 **Tools**: Git, GitHub, Jira, VS Code, Copilot  
 
 
 
 ## 💼 Experience
 
-**Research Assistant — IU School of Medicine (2025–Present)**  
-Deep learning, neuroscience data analysis, HPC workflows.
+### **Research Assistant/ Data Scientist — Computational Neuroscience Lab, IU School of Medicine**  
+- Analyze large-scale neuronal imaging datasets and enhance computational pipelines.  
+- Develop deep-learning models and apply matrix-factorization methods (CNMF) for calcium-imaging analysis.  
+- Support visualization workflows to study neural mechanisms.
 
-**Senior Software Engineer — Alacriti (2024)**  
-NLP/LLM integration, CI/CD, scalable backend development.
+---
 
-**Software Engineer — Alacriti (2022–2024)**  
-Dashboards, performance optimization, automation, monitoring.
-
-**Associate Software Engineer — Alacriti (2020–2022)**  
-Microservices, frontend integration, data visualization.
-
-**Software Engineering Intern — Alacriti (2020)**  
-Full-stack development training and implementation.
+### **Software Engineer — Alacriti**  
+- Built full-stack fintech features using Angular, Java, and microservices.  
+- Integrated intelligent NLP/LLM agents and developed ML pipelines for automation and forecasting.
 
 
 
