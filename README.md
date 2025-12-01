@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ## 🔧 Skills  
 💻 **Languages & Frameworks**: Python, Java, TypeScript, Angular, FastAPI  
-🧠 **AI & ML**: PyTorch, TensorFlow, Scikit-learn, LLMs, LangChain, LangGraph, spaCy, Keras, Google-ADK(Agent Development Kit) 
+🧠 **AI & ML**: PyTorch, TensorFlow, Scikit-learn, LLMs, LangChain, LangGraph, spaCy, Keras, Google-ADK (Agent Development Kit)<br>
 ⚙️ **Backend & APIs**: REST APIs, Microservices, Distributed Systems  
 ☁️ **Cloud & DevOps**: AWS (EC2, S3), Docker, Linux  
 🛠 **Databases**: PostgreSQL, MongoDB, MySQL  
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ## 💼 Experience
 
-### **Research Assistant/ Data Scientist | Computational Neuroscience Lab, IU School of Medicine**  
+### **AI Research Assistant | Computational Neuroscience Lab, IU School of Medicine**  
 - Analyze large-scale neuronal imaging datasets and enhance computational pipelines.  
 - Develop deep-learning models and apply matrix-factorization methods (CNMF) for calcium-imaging analysis.  
 - Support visualization workflows to study neural mechanisms.
