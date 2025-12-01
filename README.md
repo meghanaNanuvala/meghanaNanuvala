@@ -5,6 +5,7 @@
 💡 Passionate about building intelligent systems, scalable apps, and solving real-world problems with AI.
 
 
+
 ## 🔧 Skills
 
 ### **Programming & Frameworks**
@@ -25,6 +26,7 @@
 - Git, Linux, Agile, Jira
 
 
+
 ## 💼 Experience
 
 **Research Assistant — IU School of Medicine (2025–Present)**  
@@ -43,6 +45,7 @@ Microservices, frontend integration, data visualization.
 Full-stack development training and implementation.
 
 
+
 ## 📂 Featured Projects
 
 ### 🔹 **Autoregressive Mini GPT**
@@ -54,15 +57,6 @@ Fine-tuned Stable Diffusion 1.5 on custom dataset with FID & CLIP evaluations.
 ### 🔹 **Reinforcement Learning with Hugging Face**
 Implemented DQN, PPO, Q-learning on Atari & classic control environments.
 
-
-## 🎓 Education
-
-**MS — Computer Science**  
-Indiana University, Indianapolis (GPA: 3.7/4.0)  
-Courses: Deep Learning, NLP, Pattern Recognition, Data Mining  
-
-**B.Tech — ECE**  
-RGUKT Basar (GPA: 8.6/10)
 
 
 ## 🌐 Let's Connect!
