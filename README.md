@@ -4,7 +4,6 @@
 🎓 MS in Computer Science @ **Indiana University Indianapolis**  
 💡 Passionate about building intelligent systems, scalable apps, and solving real-world problems with AI.
 
----
 
 ## 🔧 Skills
 
@@ -25,7 +24,6 @@
 ### **Other Tools**
 - Git, Linux, Agile, Jira
 
----
 
 ## 💼 Experience
 
@@ -44,7 +42,6 @@ Microservices, frontend integration, data visualization.
 **Software Engineering Intern — Alacriti (2020)**  
 Full-stack development training and implementation.
 
----
 
 ## 📂 Featured Projects
 
@@ -54,13 +51,9 @@ Lightweight GPT-style model trained on Wikipedia for Q&A + contextual text gener
 ### 🔹 **Dreambooth + LoRA Fine-tuning**
 Fine-tuned Stable Diffusion 1.5 on custom dataset with FID & CLIP evaluations.
 
-### 🔹 **PhiloAgents – AI Simulation System**
-Built with **LangGraph + FastAPI + Groq**, featuring vector DB memory & automated RAG workflows.
-
 ### 🔹 **Reinforcement Learning with Hugging Face**
 Implemented DQN, PPO, Q-learning on Atari & classic control environments.
 
----
 
 ## 🎓 Education
 
@@ -71,7 +64,6 @@ Courses: Deep Learning, NLP, Pattern Recognition, Data Mining
 **B.Tech — ECE**  
 RGUKT Basar (GPA: 8.6/10)
 
----
 
 ## 🌐 Let's Connect!
 
