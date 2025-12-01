@@ -36,14 +36,12 @@ Here are some ideas to get you started:
 
 ## 💼 Experience
 
-### **Research Assistant/ Data Scientist — Computational Neuroscience Lab, IU School of Medicine**  
+### **Research Assistant/ Data Scientist | Computational Neuroscience Lab, IU School of Medicine**  
 - Analyze large-scale neuronal imaging datasets and enhance computational pipelines.  
 - Develop deep-learning models and apply matrix-factorization methods (CNMF) for calcium-imaging analysis.  
 - Support visualization workflows to study neural mechanisms.
 
----
-
-### **Software Engineer — Alacriti**  
+### **Software Engineer | Alacriti**  
 - Built full-stack fintech features using Angular, Java, and microservices.  
 - Integrated intelligent NLP/LLM agents and developed ML pipelines for automation and forecasting.
 
@@ -51,14 +49,11 @@ Here are some ideas to get you started:
 
 ## 📂 Featured Projects
 
-### 🔹 **Autoregressive Mini GPT**
-Lightweight GPT-style model trained on Wikipedia for Q&A + contextual text generation.
+🔹 **Autoregressive Mini GPT** : Lightweight GPT-style model trained on Wikipedia for Q&A + contextual text generation.
 
-### 🔹 **Dreambooth + LoRA Fine-tuning**
-Fine-tuned Stable Diffusion 1.5 on custom dataset with FID & CLIP evaluations.
+🔹 **Dreambooth + LoRA Fine-tuning**: Fine-tuned Stable Diffusion 1.5 on custom dataset with FID & CLIP evaluations.
 
-### 🔹 **Reinforcement Learning with Hugging Face**
-Implemented DQN, PPO, Q-learning on Atari & classic control environments.
+🔹 **Reinforcement Learning with Hugging Face**: Implemented DQN, PPO, Q-learning on Atari & classic control environments.
 
 
 
