@@ -68,4 +68,5 @@ Here are some ideas to get you started:
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/MeghanaNanuvala)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://meghanananuvala.vercel.app/home)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meghana2iiit@gmail.com)
+
 📍 Indianapolis, IN  
